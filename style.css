@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    background-color: #348feb;
+    color: white;
+}
+
+.main-container{
+    display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+.form-inner{
+   margin-top: 3rem;
+   max-width:450px;
+   margin-left: 5rem; 
+}
+
+.items{
+    margin-top: 4rem;
+    max-width:500px; 
+    height: 30rem;
+
+}
